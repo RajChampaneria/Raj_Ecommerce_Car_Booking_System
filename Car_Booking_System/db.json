@@ -1,0 +1,150 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "uname": "Admin",
+      "password": "123",
+      "contact": "ddd",
+      "role_id": 1,
+      "id": 1
+    },
+    {
+      "uname": "Raj ",
+      "password": "123",
+      "contact": "ddd",
+      "role_id": 2,
+      "id": 3
+    },
+    {
+      "uname": "Vivek",
+      "contact": "9825148585",
+      "password": "12345",
+      "conpass": "12345",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "Swift",
+      "company": "Maruti suzuki",
+      "price": 4000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "i10",
+      "company": "Hyundai",
+      "price": 4000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "i20  ",
+      "company": "Hyundai",
+      "price": 4000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Swift",
+      "company": "Maruti suzuki",
+      "price": 4000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/4.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Swift",
+      "company": "Maruti suzuki",
+      "price": 4000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/7.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Swift",
+      "company": "Maruti suzuki",
+      "price": 4000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/1.jpg",
+      "category": "C"
+    },
+    {
+      "name": "ssc",
+      "id": 8,
+      "company": "Maruti suzuki",
+      "display": "true",
+      "price":40000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/1.jpg",
+      "category": "B"
+    },
+    {
+      "name": "vivehhk",
+      "id": 12,
+      "display": "true",
+      "company": "Maruti suzuki",
+      "price": 40000,
+      "model": "sportz",
+      "description": "A good product from good rates.A good product from good rates.A good product from good rates",
+      "images": "/images/1.jpg",
+      "category": "A"
+    },
+    {
+      "name": "name",
+      "company": "company",
+      "price": 40000,
+      "model": "model",
+      "description": "description",
+      "id": 13,
+      "images": "/images/1.jpg",
+      "category": "A"
+    },
+    {
+      "name": "ggg",
+      "company": "ggg",
+      "price": 56,
+      "model": "ggg",
+      "description": "ggg",
+      "id": 14,
+      "category": "B"
+    },
+    {
+      "name": "ggg",
+      "company": "ggg",
+      "price": 40006,
+      "model": "ggg",
+      "description": "ggg",
+      "id": 15,
+      "category": "C"
+
+    }
+  ]
+}
